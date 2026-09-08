@@ -1,8 +1,5 @@
 # Hi, I'm Suzy Malshyti!
 
-<img width="300" height="300" alt="Headshot " src="https://github.com/user-attachments/assets/a1d67414-8216-4e78-acb2-154fd912b38f" />
-
-
 ## About Me
 I'm a senior at the **University of Notre Dame**, studying **International Economics** 
 with a concentration in **Italian Studies** and a **Data Science Minor**. I'm from 
