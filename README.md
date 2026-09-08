@@ -19,7 +19,7 @@ usually find me at a Pilates class, drinking matcha, traveling, or trying a new 
 * Excel
 * Tableau
 * Microsoft 365
-* Microsoft PowerPoint## Hi there 👋
+* Microsoft PowerPoint
 
 <!--
 **suzymalshyti/suzymalshyti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
