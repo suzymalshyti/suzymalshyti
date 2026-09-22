@@ -22,6 +22,8 @@ usually find me at a Pilates class, drinking matcha, traveling, or trying a new 
 
 ## Current Projects 
 
+** Palmer's Penguins Explorer:** Conducting a basic Streamlit application that allows users to explore the Palmer's Penguins dataset, select a penguin species, select an island, filter penguins by body mass, and view the filtered dataset.
+
 **Senior Research Project: Italian Consumer Brands & Sustainability:** Researching how major sustainability announcements and news headlines from Italian consumer brands may correlate to investor perceptions and stock market performance, using economic and data analysis methods.
 
 **Jenkins Nanovic Institute Research:** Studying sustainable innovations in the Italian fashion industry, focusing on how established brands and smaller artisans approach sustainability and communicate their efforts.
