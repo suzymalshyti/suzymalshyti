@@ -1,11 +1,15 @@
 # Hi, I'm Suzy Malshyti!
 
+<img width="500" height="700" alt="FullSizeRender" src="https://github.com/user-attachments/assets/c94756be-9868-4551-802d-4d9744140379" />
 
 
 ## About Me
 I'm a senior at the **University of Notre Dame**, studying **International Economics** 
 with a concentration in **Italian Studies** and a **Data Science Minor**. I'm from 
 New York City and plan to move back after graduation.
+
+<img width="600" height="300" alt="Dome_122-Visit20South20Bend20Mishawaka_85c50bad4b289e9f3075e3da4157742e" src="https://github.com/user-attachments/assets/a5629546-c2e1-4bc2-b70c-de4aff1cb476" />
+
 
 I'm a **first-generation student** with family roots in Albania. I had the opportunity 
 to study abroad in **Rome**, where I conducted research in the **Italian Fashion Industry** 
